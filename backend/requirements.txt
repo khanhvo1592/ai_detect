@@ -1,0 +1,6 @@
+Flask
+flask-cors
+werkzeug
+ultralytics
+opencv-python
+pytesseract
